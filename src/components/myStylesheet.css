@@ -1,0 +1,13 @@
+.primary {
+    color: orange;
+}
+.danger {
+    color: orangered;
+}
+.font-bold {
+    font-weight: bolder;
+    
+}
+.font-italic{
+    font-style: italic;
+}
